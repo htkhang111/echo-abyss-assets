@@ -1,0 +1,16 @@
+{
+  "project": "echo-abyss",
+  "version": "1.0",
+  "base_url": "", 
+  "characters": [
+    {
+      "id": "human_warrior_01",
+      "name": "Novice Warrior",
+      "assets": {
+        "portrait": "characters/portraits/human_warrior_01.png",
+        "avatar": "characters/avatars/human_warrior_01.png",
+        "sprite": "characters/sprites/human_warrior_01.gif"
+      }
+    }
+  ]
+}
